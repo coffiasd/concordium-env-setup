@@ -17,10 +17,10 @@ cargo --version
 ## 4.Install the Web Wallet
 
 ## 5.Create a Testnet account
-<img src="/images/wallet.png" width=70% height=70%>
+<img src="/images/wallet.png" width=50% height=50%>
 
 ## 6.Acquiring testnet CCD via the CCD faucet
-<img src="/images/ccd-faucet.png" width=70% height=70%>
+<img src="/images/ccd-faucet.png" width=50% height=50%>
 
 ## 7.Export the account from web wallet and import it into concordium client
 <img src="/images/import-wallet.png" width=70% height=70%>
