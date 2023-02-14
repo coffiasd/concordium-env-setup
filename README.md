@@ -42,9 +42,3 @@ cargo concordium
 
 ## references
 - [1] document. <http://developer.concordium.software/>
-
-
-# TASK2.Deploy Your First Smart Contract
-
-
-# TASK3.Your First Concordium DApp
